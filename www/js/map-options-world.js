@@ -50,7 +50,7 @@ let MapOptionsWorld = {
                     "itemType": "questItems",
                     "questName": "shotgun",
                     "tileType" : "item",
-                    "location": "row8col1",
+                    "location": "row9col7",
                     "image": "shotgun",
                     "func" : null
                 }
