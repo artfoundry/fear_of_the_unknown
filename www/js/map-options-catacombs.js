@@ -44,7 +44,7 @@ let MapOptionsCatacombs = {
                     "location": "center",
                     "image": "elder-sign",
                     "func" : null
-                },
+                }
             },
             "objects" : {
                 "stairsUp" : {
